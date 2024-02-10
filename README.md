@@ -1,4 +1,5 @@
 # WeHelp Coding Solutions in JavaScript
+![JavaScript](https://camo.githubusercontent.com/9fd2b512bf3030d47fcbc63463da3c3bef662bd15c68acc9c501489bf46ad1de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d4a6176615363726970742d79656c6c6f772e737667 "JavaScript")
 
 Welcome to a focused repository of WeHelp coding solutions exclusively in JavaScript! This repository serves as a resource for coding enthusiasts, educators, students, and professionals alike, whether preparing for technical interviews or honing JavaScript coding skills.
 
