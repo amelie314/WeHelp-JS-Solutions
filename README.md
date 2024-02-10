@@ -35,6 +35,3 @@ Happy coding in JavaScript! 🚀
 
 We welcome contributions from everyone. If you have a solution to add, or an improvement to an existing solution, please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-[MIT License](LICENSE.md) - Feel free to use and modify the code for your own use, but please retain the original authorship notice.
