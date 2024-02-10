@@ -11,7 +11,7 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 
 | #    | Title                                                              | Solution        |
 |------|--------------------------------------------------------------------|-----------------|
-| 0001 | [檢查字串是否以 https:// 開頭](https://wehelp.tw/coding/problem/1)                 | JavaScript      |
+| 0001 | [檢查字串是否以 https:// 開頭](https://wehelp.tw/coding/problem/1)                 | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0001/0001.js)     |
 | 0002 | [檢查輸入的領取金額是否合乎規範](https://wehelp.tw/coding/problem/2)  | JavaScript      |
 | 0003 | [找到最大的整數](https://wehelp.tw/coding/problem/3) | JavaScript      |
 
