@@ -19,6 +19,7 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 | 0006 | [找到最小公倍數](https://wehelp.tw/coding/problem/6) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0006/0006.js)   |  
 | 0007 | [將整數陣列 / 列表，轉換為逗號隔開的字串](https://wehelp.tw/coding/problem/7) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0007/0007.js)   |  
 | 0008 | [計算等差數列的總和](https://wehelp.tw/coding/problem/8) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0008/0008.js)   |  
+| 0009 | [用預設值填滿空字串](https://wehelp.tw/coding/problem/9) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0009/0009.js)   |  
 
 
 ## How to Use
