@@ -18,6 +18,7 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 | 0005 | [找到最大公因數](https://wehelp.tw/coding/problem/5) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0005/0005.js)      |
 | 0006 | [找到最小公倍數](https://wehelp.tw/coding/problem/6) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0006/0006.js)   |  
 | 0007 | [將整數陣列 / 列表，轉換為逗號隔開的字串](https://wehelp.tw/coding/problem/7) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0007/0007.js)   |  
+| 0008 | [將整數陣列 / 列表，轉換為逗號隔開的字串](https://wehelp.tw/coding/problem/8) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0008/0008.js)   |  
 
 
 ## How to Use
