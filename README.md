@@ -24,7 +24,7 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 
 1. **Clone the repository**:
 ```
-git clone https://github.com/amelie314/WeHelp-Coding.git
+git clone https://github.com/amelie314/WeHelp-JS-Solutions.git
 ```
 2. **Choose a Problem**:
 Browse the repository to find a coding problem that interests you.
