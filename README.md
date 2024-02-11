@@ -30,7 +30,7 @@ git clone https://github.com/amelie314/WeHelp-Coding.git
 Browse the repository to find a coding problem that interests you.
 
 3. **Explore the Solution**:
-Each problem directory contains a JavaScript solution file along with a README for an in-depth explanation of the approach and solution walkthrough.
+Each problem directory contains a JavaScript solution file.
 
 4. **Run the Code**:
 Test and run the JavaScript code on your local machine or an online JavaScript execution environment to see it in action.
