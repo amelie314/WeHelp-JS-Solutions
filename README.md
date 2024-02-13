@@ -21,8 +21,10 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 | 0008 | [計算等差數列的總和](https://wehelp.tw/coding/problem/8) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0008/0008.js)   |  
 | 0009 | [用預設值填滿空字串](https://wehelp.tw/coding/problem/9) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0009/0009.js)   |  
 | 0010 | [用前一個有效值填滿空字串](https://wehelp.tw/coding/problem/10) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0010/0010.js)   |  
-| 0011 | [找到目標數字所在的索引位置](https://wehelp.tw/coding/problem/11) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0010/0011.js)   |  
-| 0012 | [找到目標數字所在的多個索引位置](https://wehelp.tw/coding/problem/12) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0010/0012.js)   |  
+| 0011 | [找到目標數字所在的索引位置](https://wehelp.tw/coding/problem/11) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0011/0011.js)   |  
+| 0012 | [找到目標數字所在的多個索引位置](https://wehelp.tw/coding/problem/12) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0012/0012.js)   |  
+| 0013 | [翻轉一個字串](https://wehelp.tw/coding/problem/13) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0013/0013.js)   | 
+| 0014 | [整數陣列 / 列表中，兩兩相乘的最大值](https://wehelp.tw/coding/problem/14) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0013/0013.js)   | 
 
 ## How to Use
 
