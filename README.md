@@ -25,7 +25,8 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 | 0012 | [找到目標數字所在的多個索引位置](https://wehelp.tw/coding/problem/12) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0012/0012.js)   |  
 | 0013 | [翻轉一個字串](https://wehelp.tw/coding/problem/13) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0013/0013.js)   | 
 | 0014 | [整數陣列 / 列表中，兩兩相乘的最大值](https://wehelp.tw/coding/problem/14) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0014/0014.js)   | 
-| 0015 | [檢查輸入的密碼是否合乎規範](https://wehelp.tw/coding/problem/15) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0014/0015.js)   | 
+| 0015 | [檢查輸入的密碼是否合乎規範](https://wehelp.tw/coding/problem/15) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0015/0015.js)   | 
+| 0016 | [檢查輸入的密碼是否合乎規範](https://wehelp.tw/coding/problem/16) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0016/0016.js)   | 
 
 ## How to Use
 
