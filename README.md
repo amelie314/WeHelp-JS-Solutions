@@ -27,6 +27,12 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 | 0014 | [整數陣列 / 列表中，兩兩相乘的最大值](https://wehelp.tw/coding/problem/14) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0014/0014.js)   | 
 | 0015 | [檢查輸入的密碼是否合乎規範](https://wehelp.tw/coding/problem/15) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0015/0015.js)   | 
 | 0016 | [偶數測試](https://wehelp.tw/coding/problem/16) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0016/0016.js)   | 
+| 0017 | [質數測試](https://wehelp.tw/coding/problem/17) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0017/0017.js)   | 
+| 0018 | [將數字用固定小數位數的格式輸出](https://wehelp.tw/coding/problem/18) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0018/0018.js)   | 
+| 0019 | [計算有幾個英文單字](https://wehelp.tw/coding/problem/19) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0019/0019.js)   | 
+| 0020 | [檢查是否為等差數列](https://wehelp.tw/coding/problem/20) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0020/0020.js)   | 
+| 0021 | [最大連續 0 的數量](https://wehelp.tw/coding/problem/21) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0021/0021.js)   | 
+
 
 ## How to Use
 
