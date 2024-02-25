@@ -34,6 +34,7 @@ Welcome to a focused repository of WeHelp coding solutions exclusively in JavaSc
 | 0021 | [最大連續 0 的數量](https://wehelp.tw/coding/problem/21) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0021/0021.js)   | 
 | 0022 | [平方根，四捨五入取整數](https://wehelp.tw/coding/problem/22) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0022/0022.js)   | 
 | 0026 | [檢查整數是否落在某個區間](https://wehelp.tw/coding/problem/26) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0026/0026.js)   | 
+| 0028 | [撲克牌比點數大小](https://wehelp.tw/coding/problem/28) | [JavaScript](https://github.com/amelie314/WeHelp-JS-Solutions/blob/main/0028/0028.js)   | 
 
 
 ## How to Use
