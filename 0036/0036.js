@@ -18,14 +18,14 @@
 */
 function findUnique(ns) {
   for (let i = 0; i < ns.length; i++) {
-    let ifNuique = true;
+    let isNuique = true;
     for (let j = 0; j < ns.length; j++) {
       if (i !== j && ns[i] === ns[j]) {
-        ifNuique = false;
+        isNuique = false;
         break;
       }
     }
-    if (ifNuique) {
+    if (isNuique) {
       return i;
     }
   }
